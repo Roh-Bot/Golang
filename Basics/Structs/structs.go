@@ -5,7 +5,7 @@ import (
 )
 
 type person struct {
-	fname string
+	fname string "John"
 	lname string
 }
 type employee struct {
@@ -21,11 +21,12 @@ func (e employee) details() {
 }
 
 func main() {
-	p1 := person{"Raj", "Kumar"}
-	//p1 := person{fname : "Raj",lname : "Kumar"}
-	p1.details()
-	e1 := employee{person: person{"John", "Ponting"}, empId: 11}
-	//e1 := employee{ person{"John", "Ponting"},  11}
-	e1.details()
-
+	//p1 := person{"Raj", "Kumar"}
+	////p1 := person{fname : "Raj",lname : "Kumar"}
+	//p1.details()
+	//e1 := employee{person: person{"John", "Ponting"}, empId: 11}
+	////e1 := employee{ person{"John", "Ponting"},  11}
+	//e1.details()
+	var p1 person
+	fmt.Println(p1.fname)
 }
