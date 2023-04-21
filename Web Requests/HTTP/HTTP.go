@@ -19,7 +19,7 @@ func GetBook(writer http.ResponseWriter, request *http.Request) {
 		"Garo",
 		25,
 	}
-	json.NewEncoder()
+	json.NewEncoder(writer).Encode(book)
 }
 
 func Hello(write http.ResponseWriter, request *http.Request) {
@@ -32,6 +32,7 @@ func main() {
 	//	writer.Write([]byte("Hello Dhebug"))
 	//})
 	http.HandleFunc("/", Hello)
+	http.HandleFunc("/books", GetBook)
 	log.Fatal(http.ListenAndServe("localhost:5000", nil))
 
 }
