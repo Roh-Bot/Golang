@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var arr1 [5]int
+	var arr1 []int
 	arr1[0] = 1
 	arr1[1] = 2
 	arr1[2] = 3

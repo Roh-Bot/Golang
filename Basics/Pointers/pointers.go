@@ -4,8 +4,9 @@ import "fmt"
 
 func main() {
 	var p *int
-	//p := &number
 	var number int = 30
+	//p := &number
+	p = &number
 
 	fmt.Println(p, *p, &number, &p)
 }

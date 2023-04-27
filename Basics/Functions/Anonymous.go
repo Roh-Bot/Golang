@@ -13,9 +13,9 @@ func main() {
 
 	fmt.Println(AnonFunc)
 
-	AnonFuncWithoutParam := func(s string) string {
+	AnonFuncWithoutCall := func(s string) string {
 		return s
 	}
 
-	fmt.Println(AnonFuncWithoutParam("Hello Anon"))
+	fmt.Println(AnonFuncWithoutCall("Hello Anon"))
 }

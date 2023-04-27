@@ -23,6 +23,7 @@ func main() {
 		fallthrough
 	case 2:
 		fmt.Println("Choice is 2")
+		fallthrough
 	case 3:
 		fmt.Println("Choice is 3")
 	case 4:
@@ -30,5 +31,4 @@ func main() {
 	default:
 		fmt.Println("Invalid choice")
 	}
-
 }

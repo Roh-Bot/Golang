@@ -1,0 +1,17 @@
+list all the use cases of type keyword in golang
+
+The type keyword in Go is used to create custom types by defining new type names that refer to existing types. Here are some common use cases for the type keyword in Go:
+
+Defining aliases for existing types: You can use type to define a new type name that is an alias for an existing type. This can be useful for creating more descriptive or concise type names. For example, type Name string defines a new type called Name that is an alias for the built-in string type.
+
+Creating new struct types: You can use type to define new struct types. For example, type Person struct { Name string; Age int } defines a new type called Person that has two fields, Name and Age.
+
+Creating new interface types: You can use type to define new interface types. For example, type Reader interface { Read(p []byte) (n int, err error) } defines a new type called Reader that specifies a method Read that takes a byte slice and returns the number of bytes read and an error.
+
+Creating new function types: You can use type to define new function types. For example, type HandlerFunc func(w http.ResponseWriter, r *http.Request) defines a new type called HandlerFunc that is a function type that takes an http.ResponseWriter and an http.Request and returns nothing.
+
+Creating new numeric types: You can use type to define new numeric types. For example, type Celsius float64 defines a new type called Celsius that is a floating-point type representing a temperature in Celsius.
+
+Creating new boolean types: You can use type to define new boolean types. For example, type Flag bool defines a new type called Flag that is a boolean type representing a true or false value.
+
+Creating new channel types: You can use type to define new channel types. For example, type MessageChannel chan string defines a new type called MessageChannel that is a channel type that can only transmit strings.

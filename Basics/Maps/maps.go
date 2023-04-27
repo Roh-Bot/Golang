@@ -10,6 +10,7 @@ func main() {
 	//Map of integer to a slice of string
 	map1 := map[int][]string{
 		1: {"DHebug", "bhai"},
+		2: {"", "", ""},
 	}
 	fmt.Println(map1)
 

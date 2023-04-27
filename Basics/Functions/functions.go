@@ -6,6 +6,8 @@ func main() {
 	fmt.Println("Welcome to functions")
 
 	fmt.Println(proadder([]int{1, 2, 3, 4}...))
+
+	fmt.Println(proadder(1, 2, 3, 4))
 }
 
 func adder(val1 int, val2 int) int {

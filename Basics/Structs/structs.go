@@ -5,7 +5,7 @@ import (
 )
 
 type person struct {
-	fname string "John"
+	fname string `example:"Garo"`
 	lname string
 }
 type employee struct {
