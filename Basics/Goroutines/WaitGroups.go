@@ -6,19 +6,22 @@ import (
 )
 
 func main() {
-	var wg sync.WaitGroup
+	var wg *sync.WaitGroup
+	wg = &sync.WaitGroup{}
+	//wg := &sync.WaitGroup{}
+	wg.Add(2) // add one goroutine to the WaitGroup
 
-	for i := 0; i < 5; i++ {
-		wg.Add(1) // add one goroutine to the WaitGroup
+	go func() int {
+		defer wg.Done()
+		fmt.Println("Function 1:", 12*1000)
+		return 0
+	}()
 
-		go func(num int) {
-			defer wg.Done() // signal that this goroutine is done when it finishes
-
-			fmt.Println("Goroutine", num, "started")
-			// do some work...
-			fmt.Println("Goroutine", num, "finished")
-		}(i)
-	}
+	go func() int {
+		defer wg.Done()
+		fmt.Println("Function 2:", 13*29999999)
+		return 0
+	}()
 
 	wg.Wait() // wait for all goroutines to finish
 	fmt.Println("All goroutines finished")

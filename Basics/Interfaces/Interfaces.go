@@ -20,6 +20,9 @@ func (a Author) ShowAuthor() {
 
 func main() {
 	author1 := Author{"Garo"}
+	var author2 Author
 	author1.ShowAuthor()
 	PrintAuthorObject(author1)
+	PrintAuthorObject(author2)
+
 }

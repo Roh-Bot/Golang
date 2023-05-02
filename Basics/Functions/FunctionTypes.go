@@ -33,4 +33,7 @@ func main() {
 	}
 	fmt.Println(func1("Hello"))
 	fmt.Println(func1.Display("Dhebug"))
+	//fmt.Println(FunctionType(func(s string) string {
+	//	return s
+	//}))
 }
