@@ -1,0 +1,27 @@
+package main
+
+import "fmt"
+
+type Book interface {
+	ShowAuthor()
+}
+
+func PrintAuthorObject(b Book) {
+	fmt.Println(b)
+}
+
+type Author struct {
+	AuthorName string
+}
+
+func (a Author) ShowAuthor() {
+	fmt.Println(a.AuthorName)
+}
+
+func main() {
+	author1 := Author{"Garo"}
+
+	author1.ShowAuthor()
+	PrintAuthorObject(author1)
+
+}

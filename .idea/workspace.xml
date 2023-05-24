@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87f40449-1be7-4023-9667-ba483b99df90" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.air.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Arrays/Array.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Defer/defer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Files/Hello_Dhebug.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Files/files.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/For_loop/for_loop.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Functions/Anonymous.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Functions/FuncWithPointerReturn.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Functions/FunctionAsReturn.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Functions/FunctionTypes.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Functions/Methods.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Functions/Receivers.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Functions/functions.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Garo/Garo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Generics/Generics.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Goroutines/Channels.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Goroutines/Goroutines.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Goroutines/Race.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Goroutines/WaitGroups.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/InputFromUser/Input.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Interfaces/Interfaces.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Maps/maps.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Pointers/ValueVsRefer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Pointers/pointers.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Slices/slices.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Structs/StructEmbedding.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Structs/structs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Switch/switch.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Time/Time.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Type Conversion/Convert.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Echo/.air.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Echo/HandlerFunc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Echo/ListenAndServe.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Echo/ServeHttp.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Echo/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Echo/tmp/build-errors.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/type keyword.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Requests/HTTP/HTTP.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Requests/URL_Handling/URL.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin-bin.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/build-errors.log" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/go1.20.4" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2OKrw7fELigvQbswHQNdTT9WpMC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CODING/GOLANG&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;go&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODING\GOLANG\GO Phase 2\EchoDB" />
+      <recent name="D:\CODING\GOLANG\Echo\EchoMiddleware" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODING\GOLANG\GO Phase 1\Basics\Arrays" />
+      <recent name="D:\CODING\GOLANG\GO Phase 2\EchoMiddleware\MidAndCon" />
+      <recent name="D:\CODING\GOLANG\For_loop" />
+      <recent name="D:\CODING\GOLANG" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build Time.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="GOLANG" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Time.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GOLANG" />
+      <working_directory value="$PROJECT_DIR$/GO Phase 1" />
+      <kind value="FILE" />
+      <package value="main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/GO Phase 1/Basics/Time/Time.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build defer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GOLANG" />
+      <working_directory value="$PROJECT_DIR$/GO Phase 1" />
+      <kind value="FILE" />
+      <package value="main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/GO Phase 1/Basics/Defer/defer.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build functions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GOLANG" />
+      <working_directory value="$PROJECT_DIR$/GO Phase 1" />
+      <kind value="FILE" />
+      <package value="main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/GO Phase 1/Basics/Functions/functions.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main/Basics/Interfaces" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GOLANG" />
+      <working_directory value="$PROJECT_DIR$/GO Phase 1" />
+      <kind value="PACKAGE" />
+      <package value="main/Basics/Interfaces" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/GO Phase 1/Basics/Interfaces/Interfaces.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build slices.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GOLANG" />
+      <working_directory value="$PROJECT_DIR$/GO Phase 1" />
+      <kind value="FILE" />
+      <package value="main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/GO Phase 1/Basics/Slices/slices.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="GOLANG" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <package value="main" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Time.go" />
+        <item itemvalue="Go Build.go build defer.go" />
+        <item itemvalue="Go Build.go build main/Basics/Interfaces" />
+        <item itemvalue="Go Build.go build slices.go" />
+        <item itemvalue="Go Build.go build functions.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
