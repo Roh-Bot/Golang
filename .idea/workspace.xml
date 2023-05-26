@@ -5,52 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87f40449-1be7-4023-9667-ba483b99df90" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.air.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Arrays/Array.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Defer/defer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Files/Hello_Dhebug.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Files/files.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/For_loop/for_loop.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Functions/Anonymous.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Functions/FuncWithPointerReturn.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Functions/FunctionAsReturn.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Functions/FunctionTypes.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Functions/Methods.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Functions/Receivers.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Functions/functions.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Garo/Garo.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Generics/Generics.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Goroutines/Channels.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Goroutines/Goroutines.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Goroutines/Race.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Goroutines/WaitGroups.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/InputFromUser/Input.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Interfaces/Interfaces.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Maps/maps.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Pointers/ValueVsRefer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Pointers/pointers.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Slices/slices.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Structs/StructEmbedding.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Structs/structs.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Switch/switch.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Time/Time.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Type Conversion/Convert.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Echo/.air.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Echo/HandlerFunc.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Echo/ListenAndServe.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Echo/ServeHttp.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Echo/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Echo/tmp/build-errors.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/type keyword.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Requests/HTTP/HTTP.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Requests/URL_Handling/URL.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin-bin.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/build-errors.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GO Phase 1/Basics/Maps/maps.go" beforeDir="false" afterPath="$PROJECT_DIR$/GO Phase 1/Basics/Maps/maps.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GO Phase 2/ECHOWITHPGX/Handlers/PGXREGISTER.go" beforeDir="false" afterPath="$PROJECT_DIR$/GO Phase 2/ECHOWITHPGX/Handlers/PGXREGISTER.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,10 +61,11 @@
       <recent name="D:\CODING\GOLANG\Echo\EchoMiddleware" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODING\GOLANG\Backend API\StrategyData" />
+      <recent name="D:\CODING\GOLANG\Backend API" />
       <recent name="D:\CODING\GOLANG\GO Phase 1\Basics\Arrays" />
       <recent name="D:\CODING\GOLANG\GO Phase 2\EchoMiddleware\MidAndCon" />
       <recent name="D:\CODING\GOLANG\For_loop" />
-      <recent name="D:\CODING\GOLANG" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build Time.go">

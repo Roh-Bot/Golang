@@ -34,7 +34,7 @@ func RegisterPGX(c echo.Context) error {
 		return context.String(500, "Invalid input")
 	}
 
-	res := db.QueryRow(`INSERT INTO "Account".users(display_name, email, mobile, password, mpin) VALUES ($1, $2, $3, $4, $5)`)
+	res := conn.QueryRow(`INSERT INTO "Account".users(display_name, email, mobile, password, mpin) VALUES ($1, $2, $3, $4, $5)`)
 	if err != nil {
 		errJson := Structs.ErrorStruct{
 			Error: map[string]string{

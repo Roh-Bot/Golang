@@ -22,12 +22,13 @@ func main() {
 	delete(map2, 3)
 	fmt.Println(map2)
 
-	for key, value := range map2 {
-		fmt.Printf("Key = %v \nValue = %v\n", key, value)
-	}
+	fmt.Println(map2[1])
 
-	for _, value := range map2 {
-		fmt.Printf("Key v \nValue = %v\n", value)
-	}
-
+	//for key, value := range map2 {
+	//	fmt.Printf("Key = %v \nValue = %v\n", key, value)
+	//}
+	//
+	//for _, value := range map2 {
+	//	fmt.Printf("Key v \nValue = %v\n", value)
+	//}
 }
