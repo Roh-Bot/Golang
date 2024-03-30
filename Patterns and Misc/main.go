@@ -1,15 +1,11 @@
 package main
 
 import (
-	"github.com/RohBot/GOLANG/GoPhase3/painkiller"
-	"time"
+	"fmt"
+	"strings"
 )
 
-type pnl struct {
-	FromDate time.Time `json:"fromDate"`
-	ToDate   time.Time `json:"toDate"`
-}
-
 func main() {
-	painkiller.Acetaminophen.String()
+	s := []string{"1", "2", "3", "4", "5"}
+	fmt.Println(strings.Join(s, ", "))
 }
