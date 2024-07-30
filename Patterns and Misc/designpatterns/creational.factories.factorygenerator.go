@@ -1,4 +1,4 @@
-package patterns
+package designpatterns
 
 import "fmt"
 
@@ -9,14 +9,14 @@ type Employee struct {
 
 // what if we want factories for specific roles?
 
-// functional approach
+// NewEmployeeFactory functional approach
 func NewEmployeeFactory(position string, annualIncome int) func(name string) *Employee {
 	return func(name string) *Employee {
 		return &Employee{name, position, annualIncome}
 	}
 }
 
-// structural approach
+// EmployeeFactory structural approach
 type EmployeeFactory struct {
 	Position     string
 	AnnualIncome int

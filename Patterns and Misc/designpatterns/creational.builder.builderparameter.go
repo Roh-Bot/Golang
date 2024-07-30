@@ -1,4 +1,4 @@
-package patterns
+package designpatterns
 
 import "strings"
 

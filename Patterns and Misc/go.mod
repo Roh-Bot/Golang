@@ -1,6 +1,6 @@
 module github.com/RohBot/GOLANG/GoPhase3
 
-go 1.20
+go 1.22
 
 require (
 	github.com/angel-one/smartapigo v0.0.0-20221003090802-47cbce38ac5c // indirect

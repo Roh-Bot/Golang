@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"strings"
+	"reflect"
 )
 
 func main() {
-	s := []string{"1", "2", "3", "4", "5"}
-	fmt.Println(strings.Join(s, ", "))
+	num := 1
+	fmt.Println(reflect.TypeFor[int]())
+	fmt.Println(reflect.TypeOf(num))
 }
